@@ -87,14 +87,12 @@
     pointer-events: none;
   }
   
-
-  .completed {
+.completed {
     text-decoration: line-through;
     opacity: 0.5;
   }
   
-
-  select {
+ select {
     -webkit-appearance: none;
     -moz-appearance: none;
     -ms-appearance: none;
